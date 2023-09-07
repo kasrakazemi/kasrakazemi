@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<h1 align="center"><img src="https://img.icons8.com/color/2x/code.png" width="30" height="30"/> Skills</h1>
+<h1 align="center">Skills</h1>
 
 <p align="center">
   As a Python and JavaScript developer with a background in Machine Learning and backend development using Django, I bring a diverse set of skills to the table. Here are some of my areas of expertise:
