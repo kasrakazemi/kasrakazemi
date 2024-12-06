@@ -59,7 +59,6 @@
   - **Python Development**: From automation to complex application development.<br>
   - **Machine Learning**: Crafting models that drive smarter decision-making.<br>
   - **Backend Development**: Building secure, scalable systems with <strong>Django</strong> and <strong>.NET</strong>.<br>
-  - **JavaScript**: Creating interactive, user-friendly web experiences.
 </p>
 
 <p align="center">
